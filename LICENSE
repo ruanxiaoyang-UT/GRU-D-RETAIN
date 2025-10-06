@@ -1,0 +1,67 @@
+Research-Only License (ROL) v1.0
+Copyright (c) 2025 TEAM-AI UT Health Houston
+
+1. Definitions
+   “Software” means the code and associated materials in this repository.
+   “Research Use” means non-commercial activities to study, evaluate, or develop the Software,
+   performed internally by you (and your academic or corporate research collaborators), including
+   experimentation, prototyping, and publishing academic papers about results. Research Use
+   excludes any Production Use and any activity intended to provide features or functionality to
+   customers or the public.
+
+   “Production Use” means using the Software (or any derivative) to operate or support any product,
+   service, or system that is offered, sold, licensed, provided to, or accessed by third parties,
+   whether for a fee or free; or that materially supports a commercial offering.
+
+2. License Grant
+   Subject to the terms below, Licensor grants you a worldwide, royalty-free, non-exclusive,
+   non-transferable license to use, reproduce, modify, and create derivative works of the Software
+   solely for Research Use.
+
+3. Limited Distribution for Research
+   You may distribute the Software and your modifications only to members of your research team
+   and named research collaborators, provided that: (a) each recipient receives a copy of this
+   license and agrees to be bound by it; and (b) any further distribution complies with this
+   Section 3. Public redistribution (e.g., publishing a fork for general use) is not permitted
+   without Licensor’s written permission.
+
+4. Restrictions
+   a) No Commercial/Production Use. You may not use the Software for Production Use or any
+      commercial purpose, including offering it as a service, incorporating it into a
+      product, or using it to operate revenue-generating systems.
+   b) No Benchmark Marketing. You may publish academic results, but you may not use results or
+      benchmarks in sales, advertising, or marketing.
+   c) No Removal of Notices. You must retain copyright, license, and attribution notices in
+      all copies and substantial portions of the Software.
+   d) Compliance. You are responsible for complying with applicable laws and third-party rights
+      (including data and privacy obligations) in your Research Use.
+
+5. Patent Terms
+   a) Research Patent License. For Research Use only, Licensor grants you a non-exclusive,
+      non-transferable, royalty-free patent license to make, use, and modify the Software under
+      Licensor’s patent claims that would be infringed by the unmodified Software.
+   b) Patent Termination. If you (or your affiliates) initiate a patent claim alleging that the
+      Software infringes a patent, your license under this Section 5 terminates immediately.
+
+6. Attribution
+   In any academic publication or public research report that uses results produced with the
+   Software, cite the repository and include an acknowledgment of the Licensor.
+
+7. Termination
+   This license terminates automatically if you breach it. Upon termination you must cease use
+   and distribution of the Software, but Sections 6–9 survive. Licensor may grant written
+   reinstatement at its discretion.
+
+8. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+   BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NON-INFRINGEMENT.
+
+9. Limitation of Liability
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT WILL LICENSOR BE LIABLE FOR ANY DAMAGES,
+   WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL, ARISING OUT OF OR
+   IN CONNECTION WITH THIS SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+   DAMAGE.
+
+10. Contact for Commercial Use
+   For production or commercial licensing, contact: Xiaoyang.Ruan@uth.tmc.edu
